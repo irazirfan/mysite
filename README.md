@@ -13,7 +13,7 @@ mkvirtualenv <any server name>
 
 # To enter into virtual environment
 ```
-workon <any server name>
+workon <server name>
 ```
   
 # To install django
